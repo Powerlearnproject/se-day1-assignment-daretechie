@@ -56,7 +56,13 @@ Ways to overcome these challenges aree Communication, adopting of Agile methodol
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+**Answer:**
+Unit Testing: it involve testing of a component part of a software.
+Integration Testing: It involve testing of interactions between different components
+System Testing: It is testing of the whole system.
+Acceptance Testing: this testing ensure the software meet user requirement.
 
+Testing ensure specified quality standard of a software.
 
 
 
