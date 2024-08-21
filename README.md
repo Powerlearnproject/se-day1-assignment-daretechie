@@ -57,10 +57,10 @@ Ways to overcome these challenges aree Communication, adopting of Agile methodol
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 **Answer:**
-Unit Testing: it involve testing of a component part of a software.
-Integration Testing: It involve testing of interactions between different components
-System Testing: It is testing of the whole system.
-Acceptance Testing: this testing ensure the software meet user requirement.
+*Unit Testing:* it involve testing of a component part of a software.
+*Integration Testing:* It involve testing of interactions between different components
+*System Testing:* It is testing of the whole system.
+*Acceptance Testing:* this testing ensure the software meet user requirement.
 
 Testing ensure specified quality standard of a software.
 
@@ -71,5 +71,15 @@ Testing ensure specified quality standard of a software.
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+**Answer:**
+Prompt engineering is the process of designing and refining prompts to effectively interact with AI models, particularly large language models like GPT.
+It help to us to ask clear prompts from the AI model.
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+**Answer:**
+*Vague:* Tell me about technology.
+*Improve:* Describe the impact of artificial intelligence on job automation in the manufacturing industry over the last decade.
+
+The improved propmt is more specific, provide context and clearly mentioned the objective. 
