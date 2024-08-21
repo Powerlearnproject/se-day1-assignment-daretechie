@@ -29,10 +29,15 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 **Answer:**
 Waterfall is an approach where a phase of a project is completed before the next begins. E.g Construction like building of bridge, developing of hardware products
-Agile is an approach where the project is an iterative and flexible
+Agile is an approach where the project is an iterative and flexible. E.g. Software development.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+**Answer:**
+*Software Developer:* They handle writing of code for software
+*Quality Assurance Eng.:* They handle software testing to meet standard.
+*Project Manager:* They plan, execute and deliver the software
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
